@@ -6,8 +6,9 @@ A fun number guessing game powered by the GitHub Copilot SDK! GitHub Copilot pic
 
 - 🤖 Copilot picks the secret number (1-100)
 - 🎯 5 attempts to guess the correct number
-- 📈📉 "Too high" / "Too low" hints after each guess
-- 🤖 AI-powered hints and messages from GitHub Copilot
+- 📈📉 Dynamic hints that get spicier as you run low on attempts!
+- 🎭 Personality-driven responses - from friendly to hilariously savage
+- 🎉 Epic victory celebrations when you win
 - 🔄 Play again option after each game
 
 ## Prerequisites
@@ -54,8 +55,9 @@ python3 guess_the_number.py
 1. Copilot will pick a secret number between 1 and 100
 2. Enter your guess when prompted
 3. Copilot will give you hints telling you if your guess is too high or too low
-4. Try to guess the number within 10 attempts!
-5. Type `quit` at any time to exit the game
+4. Try to guess the number within 5 attempts!
+5. Watch the hints get spicier as your attempts run low 🌶️
+6. Type `quit` at any time to exit the game
 
 ## Example Gameplay
 
@@ -66,24 +68,24 @@ python3 guess_the_number.py
 
 🤖 Copilot is thinking of a number between 1 and 100...
 🤖 Copilot has picked a number!
-You have 10 attempts to guess it.
+You have 5 attempts to guess it.
 Type 'quit' to exit the game.
 
-Attempt 1/10 - Enter your guess: 50
+Attempt 1/5 - Enter your guess: 50
 
-🤖 Copilot: 50 is too high. Try guessing a lower number!
+🤖 Copilot: Nice try! 50 is a bit too high. Try going lower!
 
-Attempt 2/10 - Enter your guess: 25
+Attempt 2/5 - Enter your guess: 25
 
-🤖 Copilot: 25 is too low. Try guessing a higher number!
+🤖 Copilot: Getting warmer! But 25 is too low. Aim higher!
 
-Attempt 3/10 - Enter your guess: 37
+Attempt 3/5 - Enter your guess: 37
 
-🤖 Copilot: 37 is too high. Try guessing a lower number!
+🤖 Copilot: Ooh, so close! But 37 is still too high. Go a tiny bit lower!
 
-Attempt 4/10 - Enter your guess: 31
+Attempt 4/5 - Enter your guess: 31
 
-🤖 Copilot: 🎉 Congratulations! You guessed the secret number 31 correctly in 4 attempts!
+🤖 Copilot: 🎉 INCREDIBLE! You absolute LEGEND! You guessed my secret number 31 in just 4 attempts! I'm literally speechless (okay, not literally, but you get it). You're basically a mind reader at this point!
 ```
 
 ## Requirements
