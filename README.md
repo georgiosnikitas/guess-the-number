@@ -71,21 +71,34 @@ python3 guess_the_number.py
 You have 5 attempts to guess it.
 Type 'quit' to exit the game.
 
-Attempt 1/5 - Enter your guess: 50
+Attempt 1/5 - Enter your guess: 34
 
-🤖 Copilot: Nice try! 50 is a bit too high. Try going lower!
+🤖 Copilot: 34 is a bit too low! You'll need to aim higher to find the secret number. Keep going, you can do it—4 attempts left!
 
-Attempt 2/5 - Enter your guess: 25
+Attempt 2/5 - Enter your guess: 58
 
-🤖 Copilot: Getting warmer! But 25 is too low. Aim higher!
+🤖 Copilot: 58 is still too low! You're getting warmer, but you need to guess higher. You have 3 attempts left—keep at it!
 
-Attempt 3/5 - Enter your guess: 37
+Attempt 3/5 - Enter your guess: 69
 
-🤖 Copilot: Ooh, so close! But 37 is still too high. Go a tiny bit lower!
+🤖 Copilot: 69? I see what you did there, but it's still too low! You'll need to aim higher if you want to win. Two attempts left—make 'em count!
 
-Attempt 4/5 - Enter your guess: 31
+Attempt 4/5 - Enter your guess: 85
 
-🤖 Copilot: 🎉 INCREDIBLE! You absolute LEGEND! You guessed my secret number 31 in just 4 attempts! I'm literally speechless (okay, not literally, but you get it). You're basically a mind reader at this point!
+🤖 Copilot: 85?! You are agonizingly close, but alas, still too low! This is your final stand—one solitary attempt remains to save your dignity. Go higher, darling, for the love of drama, GO HIGHER!
+
+Attempt 5/5 - Enter your guess: 92
+
+🤖 Copilot: 92?! Oh, you flew too close to the sun, darling, and now you're burnt to a crisp! You needed to go *lower*, but instead, you overshot it completely. Zero attempts left—a spectacular tragedy of errors!
+
+
+😢 Game over! You've run out of attempts.
+Copilot's secret number was 88.
+
+🤖 Copilot: Oh, the tragedy! The agony! You had multiple chances, and you squandered them all like loose change in a wishing well. You didn't just lose; you lost with *flair*. But don't just sit there wallowing in your numerical shame—dust yourself off and try again! I promise not to laugh... much.
+
+==================================================
+Would you like to play again? (yes/no): 
 ```
 
 ## Requirements
