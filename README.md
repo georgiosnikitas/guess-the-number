@@ -26,7 +26,7 @@ A fun number guessing game powered by the GitHub Copilot SDK! GitHub Copilot pic
 
 2. **Create a virtual environment (recommended):**
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On macOS/Linux
    # or
    venv\Scripts\activate     # On Windows
